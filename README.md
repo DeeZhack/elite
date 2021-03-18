@@ -19,7 +19,7 @@ $ git clone https://github.com/Dapunta/elite
 ## ✯⇨𝙍𝙪𝙣 𝙎𝙘𝙧𝙞𝙥𝙩⇦✯
 $ cd elite  
 $ python2 elite
-## ✯⇨How To Use⇦✯
+## ✯⇨𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚⇦✯
 1. Cari Akun Target
 2. Dump ID Terlebih Dahulu
 3. Masukkan ID Target
