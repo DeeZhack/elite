@@ -19,4 +19,13 @@ $ git clone https://github.com/Dapunta/elite
 ## ✯⇨𝙍𝙪𝙣 𝙎𝙘𝙧𝙞𝙥𝙩⇦✯
 $ cd elite  
 $ python2 elite
+## ✯⇨How To Use⇦✯
+1. Cari Akun Target
+2. Dump ID Terlebih Dahulu
+3. Masukkan ID Target
+4. Tunggu Hingga Selesai Dump
+5. Setelah Selesai Dump, Maka Keluar Output File
+6. Salin Output File
+7. Tekan Kembali, Kemudian Mulai Crack
+8. Masukkan File Output Tadi
 ## ✯⇨𝙎𝙘𝙧𝙚𝙚𝙣𝙨𝙝𝙤𝙩⇦✯
